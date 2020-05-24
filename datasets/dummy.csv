@@ -1,0 +1,11 @@
+_id;date;province;city;district;village;category;subcategory;total_amount;type
+1001;2020-04-20;DKI Jakarta;Jakarta Selatan;Pasar Minggu;Kebagusan;PET;1;10000;settled
+1002;2020-04-20;DKI Jakarta;Jakarta Selatan;Pasar Minggu;Kebagusan;PET;1;12000;settled
+1003;2020-04-20;DKI Jakarta;Jakarta Selatan;Pasar Minggu;Jati Padang;CAN;5;13000;settled
+1004;2020-04-20;DKI Jakarta;Jakarta Utara;Kelapa Gading;Kelapa Gading;CAN;5;6000;settled
+1005;2020-04-20;Jawa Barat;Depok;Pondok Cina;Kampus UI;PET;2;10000;settled
+1006;2020-04-20;Jawa Barat;Depok;Pondok Cina;Kampus UI;PET;2;7500;ongoing
+1007;2020-04-21;Jawa Barat;Depok;Pondok Cina;Kampus UI;PET;3;12500;settled
+1008;2020-04-21;Jawa Barat;Bekasi;Bekasi;Bekasi;CAN;4;11000;ongoing
+1009;2020-04-21;DKI Jakarta;Jakarta Utara;Kelapa Gading;Kelapa Gading;PET;1;9000;ongoing
+1010;2020-04-21;Jawa Barat;Tangerang;Cengkareng;Kelapa Gading;CAN;4;19000;ongoing
