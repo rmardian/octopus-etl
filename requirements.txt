@@ -72,7 +72,7 @@ marshmallow==2.21.0
 marshmallow-enum==1.5.1
 marshmallow-sqlalchemy==0.22.3
 matplotlib==3.2.1
-mistune==0.8.4
+mistune==2.0.3
 nbconvert==5.6.1
 nbformat==5.0.5
 notebook==6.0.3
